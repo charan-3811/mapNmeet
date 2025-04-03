@@ -1,1 +1,15 @@
-welcome
+This is mapNmeet where you can add,find,update the profiles considering every access under administrator.
+
+steps:
+clone the repository
+run following commands for execution of frontend
+1.cd frontend
+2.npm install
+3.npm run dev
+
+run following commands for execution of backend
+1.cd backend
+2.npm install
+3.create a .env file and include MONGO_URI and port of yours
+4.npm start
+
